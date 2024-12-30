@@ -1,1 +1,0 @@
-Untuk file UAS.CPP 
