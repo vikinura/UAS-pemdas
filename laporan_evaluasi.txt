@@ -1,0 +1,10 @@
+=== Laporan Evaluasi Pasien ===
+Nama: viki
+Umur: 18
+Jenis Kelamin: l
+Alamat: kampungbaru
+
+=== Evaluasi ===
+Kategori: Kebersihan
+Kritik/Saran: gapernah di bersihkan kamarnya
+
